@@ -11,4 +11,10 @@ The second script imports the saved .csv
 And suggests some analysis: 
 1) importing the texts of all news belonging to one topic (for finer analysis)
 2) creating a new dataframe from the news filtered as belonging to a topic
-It generates then a chart (bar-stacked) by number of news by country- by topic (7LDAvidTopicscountpercountry.png)
+3) It generates then some visualisations of the data
+  a) a chart (bar-stacked) by number of news by country- by topic (7LDAvidTopicscountpercountry.png)
+  b) an interactive 4D projection in html format that identifies: date, topic, country, and amount of news.
+  c) a stack-bar chart per day to visualise the evolution of the topics along the days.
+  
+  
+** There is a lot of work in progress, here. So expect modifications -and improvements!
