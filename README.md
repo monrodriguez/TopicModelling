@@ -11,4 +11,4 @@ The second script imports the saved .csv
 And suggests some analysis: 
 1) importing the texts of all news belonging to one topic (for finer analysis)
 2) creating a new dataframe from the news filtered as belonging to a topic
-It generates then a chart (bar-stacked) by number of news by country- by topic 
+It generates then a chart (bar-stacked) by number of news by country- by topic (7LDAvidTopicscountpercountry.png)
